@@ -1,0 +1,84 @@
+<!-- includes a few changes to the design since M09 -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@700&display=swap" rel="stylesheet">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="/Users/ninasclabassi/Downloads/M 10 css">
+    <style>
+        h1 {
+            color: burlywood
+        }
+        h2 {
+            font-size: larger; }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Gulp Roast</title>
+    <link href='https://fonts.googleapis.com/css?family=Abhaya Libre' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Abhaya Libre';font-size: 22px;
+}
+</style>
+</head>
+</html>
+<header>
+  <nav>
+    <ul>
+      <li class="logo"><a href="/Users/ninasclabassi/Desktop/M 10/Home Page"><img src="https://assets.codepen.io/6306176/gulp-logo-light.png" alt="Gulp Roast. Click for home." /></a></li>
+      <li><a href="/Users/ninasclabassi/Desktop/M 10/About Page"><span aria-hidden="true" class="fa-solid fa-mug-saucer"></span> About</a></li>
+      <li><a href="/Users/ninasclabassi/Desktop/M 10/Product Page"><span aria-hidden="true" class="fa-solid fa-fire-flame-curved"></span> Products</a></li>
+      <li><a href="/Users/ninasclabassi/Desktop/M 10/Contact Page"><span aria-hidden="true" class="fa-solid fa-phone"></span> Contact</a></li>
+    </ul>
+  </nav>
+</header>
+<div class="main-bkgd">
+  <section class="main">
+    <article>
+      <h1>Contact Us</h1>
+<p> 200 Fisherman's Dock
+    <section>San Francisco, CA 94158</section>
+    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Phone Number</title>
+</head>
+<body>
+   
+    <p>Call us at: <a href="tel:+1234567890">+1 (234) 567-890</a></p>
+</body>
+</html>
+
+    </p>
+    </article>
+  </section>
+</div>
+<footer>
+  <ul>
+    <li>
+      <a href="https://facebook.com" target="_blank">
+        <span aria-hidden="true" class="fa-brands fa-facebook-square"></span>
+        <span class="sr-only">Facebook</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com" target="_blank">
+        <span aria-hidden="true" class="fa-brands fa-twitter-square"></span>
+        <span class="sr-only">Twitter</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://instagram.com" target="_blank">
+        <span aria-hidden="true" class="fa-brands fa-instagram-square"></span>
+        <span class="sr-only">Instagram</span>
+      </a>
+    </li>
+  </ul>
+  <p>&copy; edX Boot Camps LLC. This is not a coffee website. This is a fictitious company and scenario intended only for internal academic purposes. 2024 Gulp Roast Coffee. All rights reserved.</p>
+</footer>
